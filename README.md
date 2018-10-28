@@ -14,7 +14,7 @@ This project was made in Node and uses the MySQL database. The user answers a se
 
     * `Would you like to see all products available for sale?` Answer with a yes(Y) or no(N). If you answer yes, all current Bamazon items for sale will be displayed. If you answer no, Bamazon will say `"Thanks for stopping by!"`
 
-    ![Bamazon - See Products Available](/images/Prompt_1.png)
+    ![Bamazon - See Products Available](https://github.com/plnorris97/bamazon/blob/master/images/Prompt%201.png)
         
     * `Would you like to purchase an item?` Answer with a yes(Y) or no(N). If you answer yes, the next question will be asked. If you answer no, Bamazon will say `"Thank you! Come back soon!"`
         
@@ -22,8 +22,8 @@ This project was made in Node and uses the MySQL database. The user answers a se
 
     * `How many units would you like to purchase?` Answer with the amount/number of units you wish to purchase. If the inventory is available you will receive a message saying the product is in stock and what your total purchase price is. The next question will confirm you are ready to purchase.
 
-     ![Bamazon - Purchase, ID, Units](/images/Prompt_2.png)
+     ![Bamazon - Purchase, ID, Units](https://github.com/plnorris97/bamazon/blob/master/images/Prompt%202.png)
 
     * `Are you ready to purchase your items now?` Answer yes(Y) or no(N). If you answer yes, Bamazon will tell you your transaction is completed. If you answer no, you will receive a `"Please come again"` message.
 
-    ![Bamazon - Purchase Confirm](/images/Prompt_3.jpg)
+    ![Bamazon - Purchase Confirm](https://github.com/plnorris97/bamazon/blob/master/images/Prompt%203.png)
