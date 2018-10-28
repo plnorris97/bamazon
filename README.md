@@ -26,4 +26,4 @@ This project was made in Node and uses the MySQL database. The user answers a se
 
     * `Are you ready to purchase your items now?` Answer yes(Y) or no(N). If you answer yes, Bamazon will tell you your transaction is completed. If you answer no, you will receive a `"Please come again"` message.
 
-    ![Bamazon - Purchase Confirm](https://github.com/plnorris97/bamazon/blob/master/images/Prompt%203.png)
+    ![Bamazon - Purchase Confirm](https://github.com/plnorris97/bamazon/blob/master/images/Prompt_3.png)
