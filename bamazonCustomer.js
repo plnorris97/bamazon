@@ -134,7 +134,7 @@ function makePurchase(results) {
                     console.log("Total: " + "$" + res[i].price * order.units);
                     console.log("===================================");
                     
-                    var newStock = (res[i].stock_quantity - order.itemID);
+                    var newStock = (res[i].stock_quantity - order.units);
                     var purchaseId = (order.itemID);
                     updateInventory(newStock, purchaseId);
 
